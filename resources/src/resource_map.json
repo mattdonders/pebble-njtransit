@@ -1,0 +1,31 @@
+{
+    "media": [
+        {
+            "defName": "MENU_X",
+            "type": "png",
+            "file": "images/menu_x.png"
+        },
+        {
+            "defName": "MENU_UNKNOWN",
+            "type": "png",
+            "file": "images/menu_question.png"
+        },
+        {
+            "defName": "MENU_PROBLEM",
+            "type": "png",
+            "file": "images/menu_exclamation.png"
+        },
+        {
+            "defName": "MENU_OK",
+            "type": "png",
+            "file": "images/menu_tick.png"
+        },
+        {
+            "defName": "MENU_ICON",
+            "type": "png",
+            "file": "images/menu.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
